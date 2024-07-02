@@ -411,6 +411,7 @@ namespace Jackett.Updater
                 "Definitions/fusionmayhem.yml",
                 "Definitions/gainbound.yml",
                 "Definitions/galeriens.yml",
+                "Definitions/gamera.yml",
                 "Definitions/gdf76.yml",
                 "Definitions/generationfree.yml", // switch to unit3d api #12982
                 "Definitions/gfxnews.yml",
@@ -497,6 +498,7 @@ namespace Jackett.Updater
                 "Definitions/megabliz.yml",
                 "Definitions/mendigosdaweb.yml",
                 "Definitions/metal-iplay-ro.yml", // renamed to romanianmetaltorrents
+                "Definitions/metalwrks.yml",
                 "Definitions/microbit.yml",
                 "Definitions/mkvcage.yml",
                 "Definitions/moecat.yml",
@@ -582,7 +584,6 @@ namespace Jackett.Updater
                 "Definitions/rofd.yml",
                 "Definitions/rptorrents.yml",
                 "Definitions/rptorrents-api.yml", // renamed to rptscene-api
-                "Definitions/rptscene.yml", // changed engine, no replacement invite only #5368
                 "Definitions/rptscene-api.yml", // changed engine, new indexer rptscene #5368
                 "Definitions/rus-media.yml",
                 "Definitions/scenefz.yml", // migrated to C# XtremeZone base tracker
@@ -601,6 +602,7 @@ namespace Jackett.Updater
                 "Definitions/shareuniversity.yml",
                 "Definitions/sharingue.yml",
                 "Definitions/shellife.yml",
+                "Definitions/sharkpt.yml",
                 "Definitions/shokweb.yml",
                 "Definitions/skipthecommercials.yml", // switch to *-API #8682
                 "Definitions/skytorrents-lol.yml",
@@ -656,6 +658,7 @@ namespace Jackett.Updater
                 "Definitions/torrentcouch.yml",
                 "Definitions/torrentdb.yml",
                 "Definitions/torrentfactory.yml",
+                "Definitions/torrentgalaxy.yml",
                 "Definitions/torrentgalaxyorg.yml", // renamed to torrentgalaxy
                 "Definitions/torrenthane.yml",
                 "Definitions/torrentkim.yml",
