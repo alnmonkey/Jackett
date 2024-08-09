@@ -1,7 +1,7 @@
 ---
 id: hdtorrentsit
 name: HDTorrents.it
-description: "HDTorrents.it is an ITALIAN Private site for TV / MOVIES"
+description: "HDTorrents.it is an ITALIAN Private PAY2DL site for TV / MOVIES"
 language: it-IT
 type: private
 encoding: UTF-8
@@ -62,6 +62,7 @@ login:
     - selector: a[href*="/login"]
       message:
         text: "The API key was not accepted by {{ .Config.sitelink }}."
+    - selector: :root:contains("Account is Banned")
 
 search:
   paths:
